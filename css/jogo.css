@@ -1,0 +1,97 @@
+body{
+    background-image: url(../img/azul.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.u{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 500px;
+}
+
+.f{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 600px;
+    font-size: 15px;
+}
+
+.audio{
+    margin-left: 575px;
+}
+
+.e{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 490px;
+    font-size: 15px;
+}
+ 
+
+.p{
+    margin-left: 470px;
+}
+
+.y{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 560px;
+    font-size: 15px;
+}
+
+.div{
+    margin-left: 575px;
+}
+
+.s{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 610px;
+    font-size: 15px;
+}
+
+.g{
+    margin-left: 464px;
+}
+
+.c{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 620px;
+    font-size: 15px; 
+}
+
+.sa{
+    margin-left: 464px;
+}
+
+.oi{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 580px;
+    font-size: 15px; 
+}
+
+.ol{
+    margin-left: 580px;
+}
+
+.texto{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 610px;
+    font-size: 15px; 
+}
+
+.classe{
+    margin-left: 450px;
+}
+
+.viagem{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 650px;
+    font-size: 15px; 
+}
+
+.via{
+    margin-left: 590px;
+}
+
+.botao{
+    margin-left: 690px;
+}

@@ -1,0 +1,71 @@
+body{
+    background-image: url(../img/azul.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.a{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 580px;
+}
+
+.b{
+    margin-left: 720px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.video{
+    margin-left: 220px;
+}
+
+.c{
+    margin-left: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.u{
+    margin-left: 260px;
+}
+
+.d{
+    margin-left: 720px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.medo{
+    margin-left: 240px;
+}
+
+.e{
+    margin-left: 720px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.alegre{
+    margin-left: 245px;
+}
+
+.f{
+    margin-left: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.nojo{
+    margin-left: 200px;
+}
+
+.botao{
+    margin-top: 100px;
+    margin-left: 700px;
+}
+
+.melo{
+    margin-top: 100px;
+}
