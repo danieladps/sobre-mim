@@ -1,0 +1,26 @@
+body{
+    background-image: url(../img/nuvem.jpg);
+}
+
+.sobre{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 25px;
+margin-left: 250px;
+}
+
+.video{
+    margin-left: 300px;
+}
+
+.sobe{
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50px;
+    margin-left: 160px;
+}
+
+.botao{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    margin-left: 690px;
+}
